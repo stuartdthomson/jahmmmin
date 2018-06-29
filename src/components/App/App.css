@@ -21,6 +21,18 @@ h1 .highlight {
   color: #6c41ec;
 }
 
+h1 .green {
+  color: rgba(7, 94, 45,1);
+}
+
+h1 .red {
+  color: rgba(235, 19, 19,1);
+}
+
+h1 .yellow {
+  color: rgba(240, 243, 21,1);
+}
+
 h2 {
   font-family: 'Poppins', sans-serif;
   font-size: 1.55rem;
